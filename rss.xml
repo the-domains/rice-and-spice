@@ -4,7 +4,7 @@
         <description><![CDATA[Rice & Spice Asian Deli]]></description>
         <link>https://thegrid.ai/rice-and-spice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 18:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 18:48:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rice-and-spice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Asian Deli & Take Out]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:9fb819a9-a63c-4dd0-9796-471e213a1187</link>
             <guid isPermaLink="false">9aeb73b1-38e9-4122-ba5c-cc8d2dce4a09</guid>
             <pubDate>Mon, 07 Mar 2016 18:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Fingerfood Mix]]></title>
+            <description><![CDATA[<h1>Asian Fingerfood Mix</h1>]]></description>
+            <link>https://thegrid.ai/rice-and-spice/asian-fingerfood-mix/index.html</link>
+            <guid isPermaLink="false">69c513ea-3f6c-42e3-8e5b-b9e668350591</guid>
+            <pubDate>Mon, 07 Mar 2016 18:47:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
