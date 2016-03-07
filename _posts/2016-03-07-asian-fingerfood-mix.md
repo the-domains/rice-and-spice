@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Dumplings, Yakitori, Fresh Rolls, Lemper & more '
-datePublished: '2016-03-07T18:53:36.551Z'
-dateModified: '2016-03-07T18:53:14.112Z'
+datePublished: '2016-03-07T18:57:35.304Z'
+dateModified: '2016-03-07T18:57:23.632Z'
 author: []
 title: Asian Fingerfood Mix
 sourcePath: _posts/2016-03-07-asian-fingerfood-mix.md
