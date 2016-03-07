@@ -1,22 +1,27 @@
 ---
-description: ''
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:9fb819a9-a63c-4dd0-9796-471e213a1187'
+inLanguage: null
+starred: true
+keywords: []
+description: Daily fresh Asian food - Create your own menu
+datePublished: '2016-03-07T18:11:49.870Z'
+dateModified: '2016-03-07T18:11:46.092Z'
 author: []
-datePublished: '2016-03-07T17:51:54.440Z'
+title: 'Asian Deli & Take Out'
+sourcePath: _posts/2016-03-07-indonesian-kitchen.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: Indonesian Kitchen
-dateModified: '2016-03-07T16:57:10.369Z'
-starred: true
-sourcePath: _posts/2016-03-07-indonesian-kitchen.md
-published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: indonesian-kitchen/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Indonesian Kitchen
+# Asian Deli & Take Out
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e989ceb-3120-4e43-8195-e24a6f2dbe1b.png)
