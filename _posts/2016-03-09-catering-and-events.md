@@ -1,18 +1,24 @@
 ---
-description: ''
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:cff6cd37-0887-4603-a64c-bcc5db213fcc'
+inLanguage: null
+starred: false
+keywords: []
+description: 'We can also provide catering at home, office or party venues. Just call or email us with your specific requests.'
+datePublished: '2016-03-10T17:33:27.357Z'
+dateModified: '2016-03-10T17:24:16.376Z'
 author: []
-datePublished: '2016-03-09T19:02:58.378Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Catering & Events'
-dateModified: '2016-03-09T19:01:42.403Z'
 sourcePath: _posts/2016-03-09-catering-and-events.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: catering-and-events/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
