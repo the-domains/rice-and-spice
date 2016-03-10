@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:5ed57851-7b9b-48a3-9852-3a489bc2e766'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-10T17:07:55.467Z'
+dateModified: '2016-03-10T17:06:17.089Z'
 author: []
-datePublished: '2016-03-08T14:08:37.947Z'
-publisher:
-  domain: ''
-  name: ''
 title: Fresh Rolls Party Platter
-dateModified: '2016-03-08T13:38:22.508Z'
 sourcePath: _posts/2016-03-08-fresh-rolls-party-platter.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: fresh-rolls-party-platter/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
