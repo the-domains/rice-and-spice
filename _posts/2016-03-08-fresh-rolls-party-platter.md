@@ -6,9 +6,9 @@ isBasedOnUrl: 'urn:uuid:5ed57851-7b9b-48a3-9852-3a489bc2e766'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-10T17:34:57.578Z'
-dateModified: '2016-03-10T17:07:59.506Z'
+description: 'Vietnamese rice paper rolls with healthy fresh fillings, served on a large platter with dip sauce, ideal for parties or receptions. '
+datePublished: '2016-03-11T17:17:46.054Z'
+dateModified: '2016-03-11T17:17:44.567Z'
 author: []
 title: Fresh Rolls Party Platter
 sourcePath: _posts/2016-03-08-fresh-rolls-party-platter.md
