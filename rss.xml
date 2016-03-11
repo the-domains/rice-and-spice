@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rice & Spice Asian Deli]]></title>
-        <description><![CDATA[Rice & Spice Asian Deli]]></description>
+        <title><![CDATA[Rice & Spice Asian Deli Moderne aziatische traiteur met dagverse hapjes, gerechten en maaltijden.]]></title>
+        <description><![CDATA[Rice & Spice Asian Deli Moderne aziatische traiteur met dagverse hapjes, gerechten en maaltijden.]]></description>
         <link>https://thegrid.ai/rice-and-spice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 17:17:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rice-and-spice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peking Duck Buns]]></title>
+            <description><![CDATA[<article><h1>Peking Duck Buns</h1><p>Steamed buns with Peking duck, Hoi Sin sauce, and crispy green toppings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/768e4095aa0fcf1333ee85676f3420bb6b75ec5f.png"></article>]]></description>
+            <link>urn:uuid:4eba1584-c7b7-48f6-a232-1f2f56928274</link>
+            <guid isPermaLink="false">f20686e0-5092-4cf7-a432-02ba43a7dc8e</guid>
+            <pubDate>Fri, 11 Mar 2016 17:17:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Asian Deli & Take Out]]></title>
             <description><![CDATA[<article><h1>Asian Deli & Take Out</h1><p>Daily fresh Asian food - Create your own menu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c0cb74c1a61052fb1d04880ceb64897966c9f28.png"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>urn:uuid:5ed57851-7b9b-48a3-9852-3a489bc2e766</link>
             <guid isPermaLink="false">d9d1cd30-3bcc-4869-9f3f-67fe627948f4</guid>
             <pubDate>Thu, 10 Mar 2016 17:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peking Duck Buns]]></title>
-            <description><![CDATA[<article><h1>Peking Duck Buns</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/768e4095aa0fcf1333ee85676f3420bb6b75ec5f.png"></article>]]></description>
-            <link>https://thegrid.ai/rice-and-spice/peking-duck-buns/index.html</link>
-            <guid isPermaLink="false">f20686e0-5092-4cf7-a432-02ba43a7dc8e</guid>
-            <pubDate>Tue, 08 Mar 2016 14:08:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Asian Fingerfood Mix]]></title>
