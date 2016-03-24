@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:4eba1584-c7b7-48f6-a232-1f2f56928274'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Steamed buns with Peking duck, Hoi Sin sauce, and crispy green toppings.'
-datePublished: '2016-03-11T17:17:36.088Z'
-dateModified: '2016-03-11T17:17:35.233Z'
+datePublished: '2016-03-24T03:17:01.638Z'
+dateModified: '2016-03-24T03:17:01.442Z'
 author: []
 title: Peking Duck Buns
 sourcePath: _posts/2016-03-08-peking-duck-buns.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Peking Duck Buns
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a830810-ff90-4fb1-aba8-1c53a1291ff9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/768e4095aa0fcf1333ee85676f3420bb6b75ec5f.png)
