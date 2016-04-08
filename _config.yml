@@ -1,41 +1,41 @@
-name: 'Rice & Spice'
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.34439
-title: 'Rice & Spice Asian Deli'
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 1
+title: 'Rice & Spice Asian Deli'
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.7040783
+  brandStrength: 0
+  rhythmicContrast: 0.5648698
   brandColors:
     - '#FFFCFF'
     - '#AA41CF'
     - '#996FA3'
     - '#BD99C6'
     - '#72467B'
-  brandStrength: 0
   lightness: 0.6622899
-  saturation: 0.7040783
-  rhythmicContrast: 0.5648698
 purpose: []
+favicon: null
+name: 'Rice & Spice'
+typography_spectrum: 0.34439
