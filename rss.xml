@@ -4,7 +4,7 @@
         <description><![CDATA[Rice & Spice Asian Deli]]></description>
         <link>https://thegrid.ai/rice-and-spice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 07:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 07:48:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rice-and-spice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Asian Fingerfood Mix]]></title>
@@ -14,13 +14,6 @@
             <pubDate>Thu, 24 Mar 2016 03:17:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Peking Duck Buns]]></title>
-            <description><![CDATA[<article><h1>Peking Duck Buns</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/768e4095aa0fcf1333ee85676f3420bb6b75ec5f.png"></article>]]></description>
-            <link>urn:uuid:4eba1584-c7b7-48f6-a232-1f2f56928274</link>
-            <guid isPermaLink="false">f20686e0-5092-4cf7-a432-02ba43a7dc8e</guid>
-            <pubDate>Thu, 24 Mar 2016 03:17:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Asian Deli & Take Out]]></title>
             <description><![CDATA[<article><h1>Asian Deli & Take Out</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c0cb74c1a61052fb1d04880ceb64897966c9f28.png"></article>]]></description>
             <link>urn:uuid:9fb819a9-a63c-4dd0-9796-471e213a1187</link>
@@ -28,11 +21,11 @@
             <pubDate>Fri, 11 Mar 2016 17:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bento Meals]]></title>
-            <description><![CDATA[<article><h1>Bento Meals</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85dd76384478c8b8c5c5745e227907b5c0f75f6b.png"></article>]]></description>
-            <link>https://thegrid.ai/rice-and-spice/bento-meals/index.html</link>
-            <guid isPermaLink="false">983bfc95-93ce-4de5-be32-7ea69c2532a4</guid>
-            <pubDate>Wed, 09 Mar 2016 19:02:58 GMT</pubDate>
+            <title><![CDATA[Catering & Events]]></title>
+            <description><![CDATA[<article><h1>Catering & Events</h1><p>Rice & Spice verzorgt ook catering op locatie. Vraag naar de mogelijkheden. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3022020c673891294f08c9f3b9e4c29b0b1d7e6a.png"></article>]]></description>
+            <link>urn:uuid:cff6cd37-0887-4603-a64c-bcc5db213fcc</link>
+            <guid isPermaLink="false">ef30de3e-a543-432e-988d-9020445509c6</guid>
+            <pubDate>Sun, 19 Jun 2016 07:48:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fresh Rolls Party Platter]]></title>
@@ -40,6 +33,20 @@
             <link>urn:uuid:5ed57851-7b9b-48a3-9852-3a489bc2e766</link>
             <guid isPermaLink="false">d9d1cd30-3bcc-4869-9f3f-67fe627948f4</guid>
             <pubDate>Thu, 24 Mar 2016 03:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peking Duck Buns]]></title>
+            <description><![CDATA[<article><h1>Peking Duck Buns</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/768e4095aa0fcf1333ee85676f3420bb6b75ec5f.png"></article>]]></description>
+            <link>urn:uuid:4eba1584-c7b7-48f6-a232-1f2f56928274</link>
+            <guid isPermaLink="false">f20686e0-5092-4cf7-a432-02ba43a7dc8e</guid>
+            <pubDate>Thu, 24 Mar 2016 03:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bento Meals]]></title>
+            <description><![CDATA[<article><h1>Bento Meals</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85dd76384478c8b8c5c5745e227907b5c0f75f6b.png"></article>]]></description>
+            <link>https://thegrid.ai/rice-and-spice/bento-meals/index.html</link>
+            <guid isPermaLink="false">983bfc95-93ce-4de5-be32-7ea69c2532a4</guid>
+            <pubDate>Wed, 09 Mar 2016 19:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
