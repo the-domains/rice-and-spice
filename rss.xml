@@ -4,7 +4,7 @@
         <description><![CDATA[Rice & Spice Asian Deli]]></description>
         <link>https://thegrid.ai/rice-and-spice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 07:48:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 20:34:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rice-and-spice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Asian Fingerfood Mix]]></title>
@@ -40,13 +40,6 @@
             <link>urn:uuid:4eba1584-c7b7-48f6-a232-1f2f56928274</link>
             <guid isPermaLink="false">f20686e0-5092-4cf7-a432-02ba43a7dc8e</guid>
             <pubDate>Thu, 24 Mar 2016 03:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bento Meals]]></title>
-            <description><![CDATA[<article><h1>Bento Meals</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85dd76384478c8b8c5c5745e227907b5c0f75f6b.png"></article>]]></description>
-            <link>https://thegrid.ai/rice-and-spice/bento-meals/index.html</link>
-            <guid isPermaLink="false">983bfc95-93ce-4de5-be32-7ea69c2532a4</guid>
-            <pubDate>Wed, 09 Mar 2016 19:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
