@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rice & Spice Asian Deli]]></title>
         <description><![CDATA[Rice & Spice Asian Deli]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rice-and-spice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:19:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 05:25:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rice-and-spice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fresh Rolls Party Platter]]></title>
+            <description><![CDATA[<article><h1>Fresh Rolls Party Platter</h1><p>Feestelijke platters voor elke gelegenheid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae2673b557c0e2df6c374e21b244a0601dbf8f34.png"></article>]]></description>
+            <link>urn:uuid:5ed57851-7b9b-48a3-9852-3a489bc2e766</link>
+            <guid isPermaLink="false">d9d1cd30-3bcc-4869-9f3f-67fe627948f4</guid>
+            <pubDate>Fri, 22 Jul 2016 05:25:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dagmenu's]]></title>
             <description><![CDATA[<article><h1>Dagmenu's</h1><p>Dagverse menu’s uit eigen keuken</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c19a3e0-055d-4774-a6e6-c88278ff902d.jpg"></article>]]></description>
-            <link>undefineddagmenus/index.html</link>
+            <link>https://thegrid.ai/rice-and-spice/dagmenus/index.html</link>
             <guid isPermaLink="false">983bfc95-93ce-4de5-be32-7ea69c2532a4</guid>
             <pubDate>Fri, 22 Jul 2016 05:19:05 GMT</pubDate>
         </item>
